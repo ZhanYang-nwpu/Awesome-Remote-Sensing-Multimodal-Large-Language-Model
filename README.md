@@ -20,14 +20,3 @@
 
 
 
-## Contribution
-
-### Contributors
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model" />
-</a>
-
-

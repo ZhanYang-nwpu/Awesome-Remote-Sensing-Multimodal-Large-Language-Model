@@ -10,8 +10,8 @@
 
 
 ## Papers
-- **Learning to Prompt for Vision-Language Models,** IJCV 2022 (arXiv:2109.01134). ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
-
-  *Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.* [[Paper](https://arxiv.org/abs/2109.01134)][[Code](https://github.com/KaiyangZhou/CoOp)]
+- **GeoChat: Grounded Large Vision-Language Model for Remote Sensing,** arXiv 2023 (arXiv:2311.15826). ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
+- 
+  *K. Kuckreja, M. S. Danish, M. Naseer, A. Das, S. Khan, and F. S. Khan.* [[Paper](http://arxiv.org/abs/2311.15826)][[Code](https://github.com/mbzuai-oryx/geochat)]
 
 

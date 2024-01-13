@@ -12,7 +12,7 @@
 ## Papers
 - 🔥 **Nov-30-23: Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**
 
-arXiv 2023 (arXiv:2311.14656). *K. Kuckreja, M. S. Danish, M. Naseer, A. Das, S. Khan, and F. S. Khan.* [[Paper](https://arxiv.org/abs/2311.14656)][[Code](https://github.com/jonathan-roberts1/charting-new-territories)]
+arXiv 2023 (arXiv:2311.14656). *.* [[Paper](https://arxiv.org/abs/2311.14656)][[Code](https://github.com/jonathan-roberts1/charting-new-territories)]
 
 - 🔥 **Nov-28-23: GeoChat: Grounded Large Vision-Language Model for Remote Sensing**
 

@@ -24,12 +24,10 @@ arXiv 2023 (arXiv:2307.15266). *Y. Hu, J. Yuan, and C. Wen.* [[Paper](https://ar
 
 
 ## related: Remote Sensing Vision-Language Foundation Models
-- 🔥 **Nov-30-23: Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**
+- 🔥 **Aug-10-23: RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
 
-arXiv 2023 (arXiv:2311.14656). *F. Liu, D. Chen, Z. Guan, X. Zhou, J. Zhu, and J. Zhou.* [[Paper]()][[Code]()]
+arXiv 2023 (arXiv:2306.11029). *F. Liu, D. Chen, Z. Guan, X. Zhou, J. Zhu, and J. Zhou.* [[Paper](https://arxiv.org/abs/2306.11029)][[Code](https://github.com/ChenDelong1999/RemoteCLIP)]
 
-1 RemoteCLIP
-[1] F. Liu, D. Chen, Z. Guan, X. Zhou, J. Zhu, and J. Zhou, “RemoteCLIP: A Vision Language Foundation Model for Remote Sensing.” arXiv, Jun. 19, 2023. Accessed: Jun. 26, 2023. [Online]. Available: http://arxiv.org/abs/2306.11029
 
 2 GRAFT
 

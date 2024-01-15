@@ -26,7 +26,7 @@ arXiv 2023 (arXiv:2307.15266). *Y. Hu, J. Yuan, and C. Wen.* [[Paper](https://ar
 ## related: Remote Sensing Vision-Language Foundation Models
 - 🔥 **Dec-12-23: Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment**
 
-arXiv 2023 (arXiv:2312.06960). *U. Mall, C. P. Phoo, M. K. Liu, C. Vondrick, B. Hariharan, and K. Bala.* [[Paper](http://arxiv.org/abs/2312.06960)][[Code](Null)]
+arXiv 2023 (arXiv:2312.06960). *U. Mall, C. P. Phoo, M. K. Liu, C. Vondrick, B. Hariharan, and K. Bala.* [[Paper](http://arxiv.org/abs/2312.06960)][[Code]:Null]
 
 - 🔥 **Aug-10-23: RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
 

@@ -30,5 +30,6 @@ arXiv 2023 (arXiv:2306.11029). *F. Liu, D. Chen, Z. Guan, X. Zhou, J. Zhu, and J
 
 
 2 GRAFT
+[1] U. Mall, C. P. Phoo, M. K. Liu, C. Vondrick, B. Hariharan, and K. Bala, “Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment.” arXiv, Dec. 11, 2023. Accessed: Jan. 15, 2024. [Online]. Available: http://arxiv.org/abs/2312.06960
 
 

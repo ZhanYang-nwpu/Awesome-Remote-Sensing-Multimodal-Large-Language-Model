@@ -1,7 +1,10 @@
 # Awesome-Remote-Sensing-Multimodal-Large-Language-Model (Vision-Language)
 
+##### Author: Yang Zhan
 📢 A collection of remote sensing multimodal large language model papers focusing on vision-language domains.
 
+**School of Artificial Intelligence, OPtics, and ElectroNics (iOPEN), Northwestern Polytechnical University**
+## Please share a <font color='orange'>STAR ⭐</font> if this project does help
 
 
 ## Content

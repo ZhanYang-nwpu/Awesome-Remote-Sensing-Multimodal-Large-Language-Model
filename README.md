@@ -14,6 +14,7 @@
 
 
 ## 📢 Latest Updates
+In this repository, we will collect and document researchers and their outstanding work related to remote sensing multimodal large language model (vision-language).
 - **The list will be continuously updated** 🔥🔥
 - 📦 coming soon! 🚀
 ---

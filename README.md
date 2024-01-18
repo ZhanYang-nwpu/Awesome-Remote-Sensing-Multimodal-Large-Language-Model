@@ -10,6 +10,10 @@
 
 
 ## Papers
+- 🔥 **Jan-18-24: SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**
+
+arXiv 2024 (arXiv:**). *.* [[Paper]()][[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)]
+
 - 🔥 **Nov-30-23: Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**
 
 arXiv 2023 (arXiv:2311.14656). *.* [[Paper](https://arxiv.org/abs/2311.14656)][[Code](https://github.com/jonathan-roberts1/charting-new-territories)]

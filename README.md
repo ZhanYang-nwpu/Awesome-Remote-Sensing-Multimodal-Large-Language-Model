@@ -13,6 +13,12 @@
 - [related: Remote Sensing Vision-Language Foundation Models](#related)
 
 
+## 📢 Latest Updates
+- **The list will be continuously updated** 🔥🔥
+- 📦 coming soon! 🚀
+---
+
+
 ## Papers
 - 🔥 **Jan-18-24: SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**
 

@@ -23,7 +23,7 @@ In this repository, we will collect and document researchers and their outstandi
 ## Papers
 - 🔥 **Jan-18-24: SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**
 
-arXiv 2024 (arXiv:**). *.* [[Paper]()][[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)]
+arXiv 2024 (arXiv:2401.09712). *.* [[Paper](https://arxiv.org/abs/2401.09712)][[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)]
 
 - 🔥 **Nov-30-23: Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**
 

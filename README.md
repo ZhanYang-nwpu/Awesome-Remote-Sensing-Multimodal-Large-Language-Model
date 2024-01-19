@@ -8,16 +8,17 @@
 ## Please share a <font color='orange'>STAR ⭐</font> if this project does help
 
 
-## Content
-- [Papers](#papers)
-- [related: Remote Sensing Vision-Language Foundation Models](#related)
-
-
 ## 📢 Latest Updates
 In this repository, we will collect and document researchers and their outstanding work related to remote sensing multimodal large language model (vision-language).
 - **The list will be continuously updated** 🔥🔥
 - 📦 coming soon! 🚀
 ---
+
+
+
+## Content
+- [Papers](#papers)
+- [related: Remote Sensing Vision-Language Foundation Models](#related)
 
 
 ## Papers

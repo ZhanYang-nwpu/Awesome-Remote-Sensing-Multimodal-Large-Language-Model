@@ -18,6 +18,7 @@ In this repository, we will collect and document researchers and their outstandi
 
 ## Content
 - [Papers](#papers)
+- [Remote Sensing Vision-Language Dataset](#Remote Sensing Vision-Language Dataset)
 - [related: Remote Sensing Vision-Language Foundation Models](#related)
 
 
@@ -37,6 +38,11 @@ arXiv 2023 (arXiv:2311.15826). *K. Kuckreja, M. S. Danish, M. Naseer, A. Das, S.
 - 🔥 **Jul-28-23: RSGPT: A Remote Sensing Vision Language Model and Benchmark** 
 
 arXiv 2023 (arXiv:2307.15266). *Y. Hu, J. Yuan, and C. Wen.* [[Paper](https://arxiv.org/abs/2307.15266)][[Code](https://github.com/Lavender105/RSGPT)]
+
+## Remote Sensing Vision-Language Dataset
+- 🔥 **Dec-20-23: SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing**
+
+AAAI 2024 (arXiv:2312.12856). *Z. Wang, R. Prabha, T. Huang, J. Wu, and R. Rajagopal.* [[Paper](http://arxiv.org/abs/2312.12856)][[Code](https://github.com/wangzhecheng/SkyScript)]
 
 
 ## related: Remote Sensing Vision-Language Foundation Models

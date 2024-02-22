@@ -48,6 +48,10 @@ arXiv 2023 (arXiv:2311.15826). *K. Kuckreja, M. S. Danish, M. Naseer, A. Das, S.
 arXiv 2023 (arXiv:2307.15266). *Y. Hu, J. Yuan, and C. Wen.* [[Paper](https://arxiv.org/abs/2307.15266)][[Code](https://github.com/Lavender105/RSGPT)]
 
 ## Remote Sensing Vision-Language Dataset
+- 🔥 **Feb-17-24: ChatEarthNet: A Global-Scale, High-Quality Image-Text Dataset for Remote Sensing**
+
+arXiv 2024 (arXiv:2402.11325). *Z. Yuan, Z. Xiong, L. Mou, and X. X. Zhu.* [[Paper](https://arxiv.org/abs/2402.11325)][[Code]:Null)]
+
 - 🔥 **Jan-2-24: RS5M and GeoRSCLIP: A Large Scale Vision-Language Dataset and A Large Vision-Language Model for Remote Sensing**
 
 arXiv 2023 (arXiv:2306.11300). *Z. Zhang, T. Zhao, Y. Guo, and J. Yin.* [[Paper](https://arxiv.org/abs/2306.11300)][[Code](https://github.com/om-ai-lab/RS5M)]

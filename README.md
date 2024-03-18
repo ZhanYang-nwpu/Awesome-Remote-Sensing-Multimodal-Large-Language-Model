@@ -23,6 +23,10 @@ In this repository, we will collect and document researchers and their outstandi
 
 
 ## Papers
+- 🔥 **Mar-6-24: Popeye: A Unified Visual-Language Model for Multi-Source Ship Detection from Remote Sensing Imagery**
+
+arXiv 2024 (arXiv:2403.03790). *W. Zhang, M. Cai, T. Zhang, G. Lei, Y. Zhuang, and X. Mao.* [[Paper](https://arxiv.org/abs/2403.03790)][[Code](Null)]
+
 - 🔥 **Feb-4-24: LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model**
 
 arXiv 2024 (arXiv:2402.02544). *D. Muhtar, Z. Li, F. Gu, X. Zhang, and P. Xiao.* [[Paper](https://arxiv.org/abs/2402.02544v2)][[Code](https://github.com/NJU-LHRS/LHRS-Bot)]

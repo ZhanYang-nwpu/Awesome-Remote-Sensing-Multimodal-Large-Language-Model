@@ -64,6 +64,9 @@ arXiv 2023 (arXiv:2306.11300). *Z. Zhang, T. Zhao, Y. Guo, and J. Yin.* [[Paper]
 
 AAAI 2024 (arXiv:2312.12856). *Z. Wang, R. Prabha, T. Huang, J. Wu, and R. Rajagopal.* [[Paper](http://arxiv.org/abs/2312.12856)][[Code](https://github.com/wangzhecheng/SkyScript)]
 
+- 🔥 **Apr-23-23: SATIN: A Multi-Task Metadataset for Classifying Satellite Imagery using Vision-Language Models**
+
+ICCVW 2023 (arXiv:2304.11619). *J. Roberts, K. Han, S. Albanie.* [[Paper](https://arxiv.org/abs/2304.11619)]
 
 ## related: Remote Sensing Vision-Language Foundation Models
 - 🔥 **Jan-2-24: RS5M and GeoRSCLIP: A Large Scale Vision-Language Dataset and A Large Vision-Language Model for Remote Sensing**

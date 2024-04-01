@@ -23,6 +23,10 @@ In this repository, we will collect and document researchers and their outstandi
 
 
 ## Papers
+- 🔥 **Mar-29-24: H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model**
+
+arXiv 2024 (arXiv:2403.20213). *C. Pang et al.* [[Paper](https://arxiv.org/abs/2403.20213)][[Code](https://github.com/opendatalab/H2RSVLM)]
+
 - 🔥 **Mar-6-24: Popeye: A Unified Visual-Language Model for Multi-Source Ship Detection from Remote Sensing Imagery**
 
 arXiv 2024 (arXiv:2403.03790). *W. Zhang, M. Cai, T. Zhang, G. Lei, Y. Zhuang, and X. Mao.* [[Paper](https://arxiv.org/abs/2403.03790)][[Code]:Null]

@@ -36,6 +36,10 @@ arXiv 2024 (arXiv:2403.20213). *C. Pang, W. Jiang, L. Jiayu, L. Yi, S. Jiaxing, 
 
 arXiv 2024 (arXiv:2403.03790). *W. Zhang, M. Cai, T. Zhang, G. Lei, Y. Zhuang, and X. Mao.* [[Paper](https://arxiv.org/abs/2403.03790)][[Code]:Null]
 
+- 🔥 **Feb-9-24: Large Language Models for Captioning and Retrieving Remote Sensing Images**
+
+arXiv 2024 (arXiv:2402.06475). *J. D. Silva, J. Magalhaes, and D. Tuia.* [[Paper](https://arxiv.org/abs/2402.06475)][[Code]:Null]
+
 - 🔥 **Feb-4-24: LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model**
 
 arXiv 2024 (arXiv:2402.02544). *D. Muhtar, Z. Li, F. Gu, X. Zhang, and P. Xiao.* [[Paper](https://arxiv.org/abs/2402.02544v2)][[Code](https://github.com/NJU-LHRS/LHRS-Bot)]

@@ -23,6 +23,11 @@ In this repository, we will collect and document researchers and their outstandi
 
 
 ## Papers
+
+- 🔥 **Apr-23-24: RS-LLaVA: A Large Vision-Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery**
+
+Remote Sensing 2024 (doi: 10.3390/rs16091477). *Y. Bazi, L. Bashmal, M. M. Al Rahhal, R. Ricci, and F. Melgani.* [[Paper](https://www.mdpi.com/2072-4292/16/9/1477)][[Code](https://github.com/BigData-KSU/RS-LLaVA)]
+
 - 🔥 **Mar-29-24: H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model**
 
 arXiv 2024 (arXiv:2403.20213). *C. Pang, W. Jiang, L. Jiayu, L. Yi, S. Jiaxing, L. Weijia, W. Xingxing, W. Shuai, F. Litong, X. Guisong, H.Conghui.* [[Paper](https://arxiv.org/abs/2403.20213)][[Code](https://github.com/opendatalab/H2RSVLM)]

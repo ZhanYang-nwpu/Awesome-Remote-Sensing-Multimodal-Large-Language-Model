@@ -46,7 +46,7 @@ arXiv 2024 (arXiv:2402.02544). *D. Muhtar, Z. Li, F. Gu, X. Zhang, and P. Xiao.*
 
 - 🔥 **Jan-30-24: EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain**
 
-arXiv 2024 (arXiv:2401.16822). *W. Zhang, M. Cai, T. Zhang, Y. Zhuang, and X. Mao.* [[Paper](https://arxiv.org/abs/2401.16822)][[Code]:Null]
+arXiv 2024 (arXiv:2401.16822). *W. Zhang, M. Cai, T. Zhang, Y. Zhuang, and X. Mao.* [[Paper](https://arxiv.org/abs/2401.16822)][[Code](https://github.com/wivizhang/EarthGPT)]
 
 - 🔥 **Jan-18-24: SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**
 

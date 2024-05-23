@@ -64,9 +64,10 @@ In this repository, we will collect and document researchers and their outstandi
   - [Datasets of Pre-Training for Alignment](#datasets-of-pre-training-for-alignment)
   - [Datasets of Multimodal Instruction Tuning](#datasets-of-multimodal-instruction-tuning)
 - [Latest Evaluation Benchmarks for Remote Sensing Vision-Language Tasks](#latest-evaluation-benchmarks-for-remote-sensing-vision-language-tasks)
-  - [Image Captioning and Video Captioning](#image-captioning-and-video-captioning)
-  - [Visual Question Answering and Visual Grounding](#visual-question-answering-and-visual-grounding)
-  - [Image-Text Retrieval](#image-text-retrieval)
+  - [Remote Sensing Image Captioning and Aerial Video Captioning](#remote-sensing-image-captioning-and-aerial-video-captioning)
+  - [Remote Sensing Visual Question Answering and Remote Sensing Visual Grounding](#remote-sensing-visual-question-answering-and-remote-sensing-visual-grounding)
+  - [Remote Sensing Image-Text Retrieval](#remote-sensing-image-text-retrieval)
+  - [Remote Sensing Scene Classification](#remote-sensing-scene-classification)
 ---
 
 # Awesome Papers

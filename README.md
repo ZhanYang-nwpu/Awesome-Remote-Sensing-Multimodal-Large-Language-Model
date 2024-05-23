@@ -2,7 +2,6 @@
 # Awesome-Remote-Sensing-Multimodal-Large-Language-Models
 
 
-## Our RS-MLLMs works
 🔥🔥🔥 **Multimodal Large Language Models for Remote Sensing: A Survey**  
 **[Project Page][This Page](https://github.com/ZhanYang-nwpu/RS-MLLMs)** | **[Paper](https://arxiv.org/pdf/.pdf)**
 

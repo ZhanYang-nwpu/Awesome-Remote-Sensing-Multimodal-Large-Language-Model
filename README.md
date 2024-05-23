@@ -185,7 +185,10 @@ In this repository, we will collect and document researchers and their outstandi
     <img src="./images/itretrieval.jpg" width="80%" height="100%">
 </p>
 
-
+## Scene Classification
+<p align="center">
+    <img src="./images/rssc.jpg" width="80%" height="100%">
+</p>
 
 
 ## 🙏 Acknowledgement

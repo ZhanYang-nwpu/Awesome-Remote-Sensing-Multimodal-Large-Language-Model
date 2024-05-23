@@ -167,25 +167,25 @@ In this repository, we will collect and document researchers and their outstandi
 
 # Latest Evaluation Benchmarks for Remote Sensing Vision-Language Tasks
 
-## Image Captioning and Video Captioning
+## Remote Sensing Image Captioning and Aerial Video Captioning
 <p align="center">
     <img src="./images/caption.jpg" width="80%" height="100%">
 </p>
 
 
-## Visual Question Answering and Visual Grounding
+## Remote Sensing Visual Question Answering and Remote Sensing Visual Grounding
 <p align="center">
     <img src="./images/vqavg.jpg" width="80%" height="100%">
 </p>
 
 
 
-## Image-Text Retrieval
+## Remote Sensing Image-Text Retrieval
 <p align="center">
     <img src="./images/itretrieval.jpg" width="80%" height="100%">
 </p>
 
-## Scene Classification
+## Remote Sensing Scene Classification
 <p align="center">
     <img src="./images/rssc.jpg" width="80%" height="100%">
 </p>

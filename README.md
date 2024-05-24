@@ -3,7 +3,7 @@
 
 
 🔥🔥🔥 **Multimodal Large Language Models for Remote Sensing: A Survey**  
-**[Project Page][This Page](https://github.com/ZhanYang-nwpu/RS-MLLMs)** | **[Paper](https://arxiv.org/pdf/.pdf)**
+**[Project Page][This Page](https://github.com/ZhanYang-nwpu/RS-MLLMs)** | 
 
 **School of Artificial Intelligence, OPtics, and ElectroNics (iOPEN), Northwestern Polytechnical University**
 
@@ -34,15 +34,7 @@
 
 ## Please share a <font color='orange'>STAR ⭐</font> if this project does help
 
-<br> **🌟 If you find our projects helpful to your research, please consider citing:** <be>
-```
-@article{yang2024survey,
-  title={Multimodal Large Language Models for Remote Sensing: A Survey},
-  author={},
-  journal={arXiv preprint arXiv:},
-  year={2024}
-}
-```
+
 
 
 ## 📢 Latest Updates
@@ -191,9 +183,6 @@ In this repository, we will collect and document researchers and their outstandi
     <img src="./images/rssc.jpg" width="80%" height="100%">
 </p>
 
-
-## 🙏 Acknowledgement
-I sincerely appreciate Xiong zhitong and Yuan yuan for helping with this survey. I also thank the School of Artificial Intelligence, OPtics, and ElectroNics (iOPEN), Northwestern Polytechnical University for supporting this work.
 
 
 ## 🤖 Contact

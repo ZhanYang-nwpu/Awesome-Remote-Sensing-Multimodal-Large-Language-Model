@@ -26,7 +26,7 @@
 <font size=7><div align='center' > :apple: Multimodal Large Language Models for Remote Sensing </div></font>  
 
 <p align="center">
-    <img src="./images/6-timeline-agent.jpg" width="60%" height="100%">
+    <img src="./images/6-timeline-agent.jpg" width="70%" height="100%">
 </p>
 <font size=7><div align='center' > :apple: Intelligent Agents for Remote Sensing </div></font>  
 

@@ -41,7 +41,7 @@
 In this repository, we will collect and document researchers and their outstanding work related to remote sensing multimodal large language model (vision-language).
 - **The list will be continuously updated** 🔥🔥
 - 📦 coming soon! 🚀
-- **May-22-2024**: The first RS-MLLMs review manuscript has been submitted for review. 🔥🔥
+- **May-22-2024**: The **first RS-MLLMs review** manuscript has been submitted for review. 🔥🔥
   
 
 

@@ -105,7 +105,6 @@ In this repository, we will collect and document researchers and their outstandi
 ## Survey Papers for Remote Sensing Vision-Language Tasks
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-[1] .” arXiv, Jun. 13, 2024. Accessed: Jun. 15, 2024. [Online]. Available: 
 | [**Towards Vision-Language Geo-Foundation Model: A Survey**](http://arxiv.org/abs/2406.09385) <br>Y. Zhou, L. Feng, Y. Ke, X. Jiang, J. Yan, and W. Zhang.<br>| arXiv | 2024-06-13 | [Github](https://github.com/zytx121/Awesome-VLGFM) | [arXiv](http://arxiv.org/abs/2406.09385) |
 | [**Vision-Language Models in Remote Sensing: Current progress and future trends**](https://ieeexplore.ieee.org/document/10506064) <br>X. Li, C. Wen, Y. Hu, Z. Yuan, and X. X. Zhu.<br>| MGRS | 2024-04-22 | - | - |
 | [**Language Integration in Remote Sensing: Tasks, datasets, and future directions**](https://ieeexplore.ieee.org/abstract/document/10278197) <br>L. Bashmal, Y. Bazi, F. Melgani, M. M. Al Rahhal, and M. A. Al Zuair.<br>| MGRS | 2023-10-11 | - | - |

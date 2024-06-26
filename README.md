@@ -142,7 +142,7 @@ In this repository, we will collect and document researchers and their outstandi
 ## Datasets of Multimodal Instruction Tuning
 | Name | Paper | Link | Note |
 |:-----|:-----:|:----:|:-----:|
-| **RS-GPT4V** | [RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding](https://arxiv.org/abs/2406.09385) | [Link](https://github.com/GeoX-Lab/RS-GPT4V) | - | 
+| **RS-GPT4V** | [RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding](https://arxiv.org/abs/2406.09385) | [Link](https://github.com/GeoX-Lab/RS-GPT4V) | 991k | 
 | **RS-instructions** | [RS-LLaVA: A Large Vision-Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery](https://www.mdpi.com/2072-4292/16/9/1477) | [Link](https://github.com/BigData-KSU/RS-LLaVA) | 7,058 | 
 | **SkyEye-968k** | [SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model](https://arxiv.org/abs/2401.09712.pdf) | [Link](https://huggingface.co/datasets/ZhanYang-nwpu/SkyEye-968k) | 968k | 
 | **Multi-task Instruction** | [LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model](https://arxiv.org/abs/2402.02544v2.pdf) | [Link](https://github.com/NJU-LHRS/LHRS-Bot) | 42,322 |

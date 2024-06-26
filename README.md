@@ -82,6 +82,7 @@ In this repository, we will collect and document researchers and their outstandi
 ## Intelligent Agents for Remote Sensing
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**RS-Agent: Automating Remote Sensing Tasks through Intelligent Agents**](https://arxiv.org/abs/2406.07089) <br>W. Xu, Z. Yu, Y. Wang, J. Wang, and M. Peng.<br>| arXiv | 2024-06-11 | - | - |
 | [**GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots**](https://arxiv.org/abs/2404.15500.pdf) <br>S. Singh, M. Fore, D. Stamoulis, and D. Group.<br>| arXiv | 2024-04-23 | - | - |
 | [**Evaluating Tool-Augmented Agents in Remote Sensing Platforms**](https://arxiv.org/abs/2405.00709v1.pdf) <br>S. Singh, M. Fore, and D. Stamoulis.<br>| arXiv | 2024-04-23 | - | - |
 | ![Star](https://img.shields.io/github/stars/Chen-Yang-Liu/Change-Agent.svg?style=social&label=Star) <br> [**Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis**](https://arxiv.org/abs/2403.19646.pdf) <br>C. Liu, K. Chen, H. Zhang, Z. Qi, Z. Zou, and Z. Shi.<br>| arXiv | 2024-04-01 | [Github](https://github.com/Chen-Yang-Liu/Change-Agent) | - |

@@ -130,7 +130,7 @@ In this repository, we will collect and document researchers and their outstandi
 ## Datasets of Pre-Training for Alignment
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**ChatEarthNet: A Global-Scale, High-Quality Image-Text Dataset for Remote Sensing**](https://arxiv.org/abs/2402.11325.pdf) <br>Z. Yuan, Z. Xiong, L. Mou, and X. X. Zhu.<br>| arXiv | 2024-02-17 | - | - |
+| ![Star](https://img.shields.io/github/stars/zhu-xlab/ChatEarthNet.svg?style=social&label=Star) <be> [**ChatEarthNet: A Global-Scale, High-Quality Image-Text Dataset for Remote Sensing**](https://arxiv.org/abs/2402.11325.pdf) <br>Z. Yuan, Z. Xiong, L. Mou, and X. X. Zhu.<br>| arXiv | 2024-02-17 | [Github](https://github.com/zhu-xlab/ChatEarthNet) | [Link](https://zenodo.org/records/11003436) |
 | ![Star](https://img.shields.io/github/stars/om-ai-lab/RS5M.svg?style=social&label=Star) <br> [**RS5M and GeoRSCLIP: A Large Scale Vision-Language Dataset and A Large Vision-Language Model for Remote Sensing**](https://arxiv.org/abs/2306.11300.pdf) <br>Z. Zhang, T. Zhao, Y. Guo, and J. Yin.<br>| arXiv | 2024-01-02 | [Github](https://github.com/om-ai-lab/RS5M) | - |
 | ![Star](https://img.shields.io/github/stars/wangzhecheng/SkyScript.svg?style=social&label=Star) <br> [**SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing**](https://doi.org/10.1609/aaai.v38i6.28393) <br>Z. Wang, R. Prabha, T. Huang, J. Wu, and R. Rajagopal.<br>| AAAI | 2024-03-24 | [Github](https://github.com/wangzhecheng/SkyScript) | [arXiv](http://arxiv.org/abs/2312.12856.pdf) |
 

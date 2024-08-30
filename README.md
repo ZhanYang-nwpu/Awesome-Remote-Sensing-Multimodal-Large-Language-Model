@@ -143,6 +143,7 @@ In this repository, we will collect and document researchers and their outstandi
 ## Datasets of Multimodal Instruction Tuning
 | Name | Paper | Link | Note |
 |:-----|:-----:|:----:|:-----:|
+| **RS-GPT4V** | [RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding](https://arxiv.org/pdf/2406.12479) | [Link](https://github.com/GeoX-Lab/RS-GPT4V) | -k | 
 | **FIT-RS** | [SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding](http://arxiv.org/abs/2406.10100) | [Link](https://huggingface.co/datasets/ll-13/FIT-RS) | 1800.8k | 
 | **RS-GPT4V** | [RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding](https://arxiv.org/abs/2406.09385) | [Link](https://github.com/GeoX-Lab/RS-GPT4V) | 991k | 
 | **RS-instructions** | [RS-LLaVA: A Large Vision-Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery](https://www.mdpi.com/2072-4292/16/9/1477) | [Link](https://github.com/BigData-KSU/RS-LLaVA) | 7,058 | 

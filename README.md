@@ -68,6 +68,7 @@ In this repository, we will collect and document researchers and their outstandi
 ## Multimodal Large Language Models for Remote Sensing
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|  [**RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering**](https://arxiv.org/abs/2411.01595) <br>Lin, H., Hong, D., Ge, S., Luo, C., Jiang, K., Jin, H., and Wen, C<br>| arXiv | 2024-11-03 | - | - |
 | ![Star](https://img.shields.io/github/stars/HosamGen/GeoLLaVA.svg?style=social&label=Star) <br> [**GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing**](https://arxiv.org/pdf/2410.19552) <br>Elgendy, H., Sharshar, A., Aboeitta, A., Ashraf, Y., and Guizani, M. <br>| arXiv | 2024-10-25 | [Github](https://github.com/HosamGen/GeoLLaVA) | - |
 | ![Star](https://img.shields.io/github/stars/ermongroup/TEOChat.svg?style=social&label=Star) <br> [**TEOChat: Large Language and Vision Assistant for Temporal Earth Observation Data**](https://arxiv.org/pdf/2410.06234) <br>J. Irvin, Jeremy Andrew, et al. <br>| arXiv | 2024-10-08 | [Github](https://github.com/ermongroup/TEOChat) | - |
 | ![Star](https://img.shields.io/github/stars/Luo-Z13/SkySenseGPT.svg?style=social&label=Star) <br> [**SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding**](http://arxiv.org/abs/2406.10100) <br>J. Luo et al. <br>| arXiv | 2024-06-14 | [Github](https://github.com/Luo-Z13/SkySenseGPT) | - |

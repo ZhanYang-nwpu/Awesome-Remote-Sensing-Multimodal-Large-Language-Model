@@ -112,6 +112,7 @@ In this repository, we will collect and document researchers and their outstandi
 ## Survey Papers for Remote Sensing Vision-Language Tasks
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/Chen-Yang-Liu/Awesome-RS-Temporal-VLM.svg?style=social&label=Star) <br>[**Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey**](https://arxiv.org/abs/2412.02573) <br>C. Liu, J. Zhang, K. Chen, M. Wang, Z. Zou, and Z. Shi <br>| arXiv | 2024-12-03 | [Github](https://github.com/Chen-Yang-Liu/Awesome-RS-Temporal-VLM) | [arXiv](https://arxiv.org/abs/2412.02573) |
 | ![Star](https://img.shields.io/github/stars/zytx121/Awesome-VLGFM.svg?style=social&label=Star) <br>[**Towards Vision-Language Geo-Foundation Model: A Survey**](http://arxiv.org/abs/2406.09385) <br>Y. Zhou, L. Feng, Y. Ke, X. Jiang, J. Yan, and W. Zhang.<br>| arXiv | 2024-06-13 | [Github](https://github.com/zytx121/Awesome-VLGFM) | [arXiv](http://arxiv.org/abs/2406.09385) |
 | [**Vision-Language Models in Remote Sensing: Current progress and future trends**](https://ieeexplore.ieee.org/document/10506064) <br>X. Li, C. Wen, Y. Hu, Z. Yuan, and X. X. Zhu.<br>| MGRS | 2024-04-22 | - | - |
 | [**Language Integration in Remote Sensing: Tasks, datasets, and future directions**](https://ieeexplore.ieee.org/abstract/document/10278197) <br>L. Bashmal, Y. Bazi, F. Melgani, M. M. Al Rahhal, and M. A. Al Zuair.<br>| MGRS | 2023-10-11 | - | - |

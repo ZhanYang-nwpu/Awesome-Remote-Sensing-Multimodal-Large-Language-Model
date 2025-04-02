@@ -68,6 +68,8 @@ In this repository, we will collect and document researchers and their outstandi
 ## Multimodal Large Language Models for Remote Sensing
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|  [**Falcon: A Remote Sensing Vision-Language Foundation Model**](https://arxiv.org/abs/2503.11070) <br>K. Yao, N. Xu, R. Yang, Y. Xu, Z. Gao, T. Kitrungrotsakul, Y. Ren, P. Zhang, J. Wang, N. Wei, C. Li <br>| arXiv | 2025-03-14 | [Github](https://github.com/TianHuiLab/Falcon)  | - |
+
 |  [**RingMoGPT: A Unified Remote Sensing Foundation Model for Vision, Language, and grounded tasks**](https://ieeexplore.ieee.org/abstract/document/10777289) <br>P. Wang, H. Hu, B. Tong, Z. Zhang, F. Yao, Y. Feng, Z. Zhu, H. Chang, W. Diao, Q. Ye, and X. Sun <br>| T-GRS | 2024-12-04 | - | - |
 | ![Star](https://img.shields.io/github/stars/zytx121/GeoGround.svg?style=social&label=Star) <br> [**GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding**](https://arxiv.org/abs/2411.11904) <br>Y. Zhou, M. Lan, X. Li, Y. Ke, X. Jiang, L. Feng, and W. Zhang <br>| arXiv | 2024-11-16 | [Github](https://github.com/zytx121/GeoGround) | - |
 |  [**Large Vision-Language Models for Remote Sensing Visual Question Answering**](https://arxiv.org/abs/2411.10857) <br>S. Siripong, A. Chaiyapan, and T. Phonchai <br>| arXiv | 2024-11-16 | - | - |

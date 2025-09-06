@@ -68,7 +68,7 @@ In this repository, we will collect and document researchers and their outstandi
 ## Multimodal Large Language Models for Remote Sensing
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|  [**A semantic-enhanced multi-modal remote sensing foundation model for Earth observation**](https://www.nature.com/articles/s42256-025-01078-8) <br>Aybora Koksal, A. Aydin Alatan <br>| Nature Machine Intelligence | 2025-08-04 | - | - |
+|  [**A semantic-enhanced multi-modal remote sensing foundation model for Earth observation**](https://www.nature.com/articles/s42256-025-01078-8) <br>Wu, K., Zhang, Y., Ru, L., Dang, B., Lao, J., Yu, L., ... & Li, Y. <br>| Nature Machine Intelligence | 2025-08-04 | - | - |
 |  ![Star](https://img.shields.io/github/stars/MiliLab/GeoLLaVA-8K.svg?style=social&label=Star) <br> [**GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution**](https://arxiv.org/abs/2505.21375) <br>Fengxiang Wang, Mingshuo Chen, Yueying Li, Di Wang, Haotian Wang, Zonghao Guo, Zefan Wang, Boqi Shan, Long Lan, Yulin Wang, Hongzhen Wang, Wenjing Yang, Bo Du, Jing Zhang <br>| arXiv | 2025-05-27 | [Github](https://github.com/MiliLab/GeoLLaVA-8K) | - |
 |  [**TinyRS-R1: Compact Multimodal Language Model for Remote Sensing**](https://arxiv.org/abs/2505.12099) <br>Aybora Koksal, A. Aydin Alatan <br>| arXiv | 2025-05-17 | - | - |
 |  [**EarthGPT-X: Enabling MLLMs to Flexibly and Comprehensively Understand Multi-Source Remote Sensing Imagery**](https://arxiv.org/abs/2504.12795) <br>Wei Zhang, Miaoxin Cai, Yaqian Ning, Tong Zhang, Yin Zhuang, He Chen, Jun Li, Xuerui Mao <br>| arXiv | 2025-04-17 | - | - |

@@ -3,7 +3,7 @@
 
 
 🔥🔥🔥 **Multimodal Large Language Models for Remote Sensing: A Survey**  
-**[Project Page][This Page](https://github.com/ZhanYang-nwpu/RS-MLLMs)** | 
+**[Project Page][This Page](https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model)** | 
 
 **School of Artificial Intelligence, OPtics, and ElectroNics (iOPEN), Northwestern Polytechnical University**
 

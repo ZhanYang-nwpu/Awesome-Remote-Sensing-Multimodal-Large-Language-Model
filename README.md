@@ -1,6 +1,13 @@
 
 # Awesome-Remote-Sensing-Multimodal-Large-Language-Models
 
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+</div>
+
 
 🔥🔥🔥 **Multimodal Large Language Models for Remote Sensing: A Survey**  
 **[Project Page][This Page](https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model)** | 

@@ -150,6 +150,7 @@ In this repository, we will collect and document researchers and their outstandi
 ## Survey Papers for Remote Sensing Vision-Language Tasks
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Survey of Multimodal Geospatial Foundation Models: Techniques, Applications, and Challenges**](https://arxiv.org/abs/2510.22964) <br>Liling Yang, Ning Chen, Jun Yue, Yidan Liu, Jiayi Ma, Pedram Ghamisi, Antonio Plaza, Leyuan Fang<br>| arXiv | 2025-10-27 | - | - |
 | [**Vision-Language Modeling Meets Remote Sensing: Models, datasets, and perspectives**](https://ieeexplore.ieee.org/abstract/document/11028078/) <br>Xingxing Weng; Chao Pang; Gui-Song Xia.<br>| GRSM | 2025-06-09 | - | - |
 | ![Star](https://img.shields.io/github/stars/IRIP-BUAA/A-Survey-on-Data-Synthesis-and-Augmentation-for-Large-Language-Models.svg?style=social&label=Star) <br>[**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**](https://arxiv.org/abs/2412.02573) <br>Z. Huang, H. Yan, Q. Zhan, S. Yang, M. Zhang, C. Zhang, Y. Lei, Z. Liu, Q. Liu, Y. Wang <br>| arXiv | 2025-03-28 | [Github](https://github.com/IRIP-BUAA/A-Survey-on-Data-Synthesis-and-Augmentation-for-Large-Language-Models) | [arXiv](https://arxiv.org/abs/2503.22081) |
 | [**GeoRSMLLM: A Multimodal Large Language Model for Vision-Language Tasks in Geoscience and Remote Sensing**](https://arxiv.org/abs/2503.12490) <br>Z. Zhang, H. Shen, T. Zhao, B. Chen, Z. Guan, Y. Wang, X. Jia, Y. Cai, Y. Shang, J. Yin.<br>| arXiv | 2025-03-16 | - | - |

@@ -198,6 +198,7 @@ In this repository, we will collect and document researchers and their outstandi
 ## Datasets of Multimodal Instruction Tuning
 | Name | Paper | Link | Note |
 |:-----|:-----:|:----:|:-----:|
+| **RsEvi-248K** | [Grounding What Matters: Evidence-Aware Credit Assignment for Remote Sensing Reasoning](https://aclanthology.org/2026.emnlp-main.2269/) | [Link](https://huggingface.co/datasets/sesko818/RsEvi-248K) | ~248k training records; bounding-box-grounded reasoning |
 | **DDFAV** | [DDFAV: Remote Sensing Large Vision Language Models Dataset and Evaluation Benchmark](https://arxiv.org/pdf/2411.02733) | [Link](https://github.com/HaodongLi2024/rspope) | 27.7k | 
 | **VRSBench** | [VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding](https://arxiv.org/pdf/2406.12384) | [Link](https://vrsbench.github.io/) | 29.6k | 
 | **FIT-RS** | [SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding](http://arxiv.org/abs/2406.10100) | [Link](https://huggingface.co/datasets/ll-13/FIT-RS) | 1800.8k | 
